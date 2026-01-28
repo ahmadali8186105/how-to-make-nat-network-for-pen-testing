@@ -45,8 +45,7 @@ https://drive.google.com/file/d/1H1QLBL64xibP-NHbF3vNBaITz9TLGO0G/view?usp=drive
     - Username : msfadmin
         
     - Password : msfadmin
-      
-  -  Press login...done......
+
 
 4.making nat network 
   
